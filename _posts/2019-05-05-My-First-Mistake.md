@@ -1,5 +1,6 @@
 ---
-published: false
+layout: post
+title: My First Mistake
 ---
 
 ## My First Mistake #
